@@ -70,7 +70,8 @@
 ![Cisco Talos](https://img.shields.io/badge/Cisco%20Talos-blue?style=for-the-badge)
 
 ### **Firewall**
-![PfSense](https://img.shields.io/badge/PfSense%20Firewall-navy?style=for-the-badge)
+![PfSense](https://img.shields.io/badge/PfSense-navy?style=for-the-badge)
+![Smoothwall](https://img.shields.io/badge/Smmothwall-green?style=for-the-badge)
 
 ## 🛡️ Privacy and Compliance Laws
 
