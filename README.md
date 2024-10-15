@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Cybersecurity, AI and DevOps
 - 🌱 I’m currently learning various tech that interests me.
-- 💬 Ask me about Cloud, LLMs, Networking, Python, DevOps, Splunk, Wazuh and Linux
+- 💬 Ask me about Cloud, LLMs, Networking, Python, DevOps, and Cybersecurity tools.
 - 😄 Hobbies: Piano, Singing, Football, Movies
 - ⚡ Fun fact: ...try and find out.
 
