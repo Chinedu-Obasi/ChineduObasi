@@ -49,7 +49,7 @@
 
 ### **SIEM**
 ![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge)
-![IBM QRadar](https://img.shields.io/badge/Elastic-darkblue?style=for-the-badge)
+![Elstic ELK](https://img.shields.io/badge/Elastic%20ELK-darkblue?style=for-the-badge)
 ![Wazuh](https://img.shields.io/badge/Wazuh-red?style=for-the-badge)
 
 ### **Frameworks**
@@ -60,7 +60,6 @@
 ### **Vulnerability Management**
 ![Nessus](https://img.shields.io/badge/Nessus-black?style=for-the-badge)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-darkblue?style=for-the-badge)
-![Wazuh](https://img.shields.io/badge/Wazuh-red?style=for-the-badge)
 
 ### **Threat Intelligence**
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-blue?style=for-the-badge)
