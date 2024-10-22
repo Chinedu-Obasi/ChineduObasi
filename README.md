@@ -14,6 +14,8 @@
 - 😄 Hobbies: Piano, Singing, Football, Movies
 - ⚡ Fun fact: ...try and find out.
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cobasi.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2261235)
+
 ---
 
 <p align="left">
